@@ -5,10 +5,10 @@
 
 * This is project 2 of the Udacity Self-Driving-Car Nanodegree.
 * The project covers several computer vision techniques, e.g.
-⋅⋅⋅ Camera calibration
-⋅⋅⋅ Color transformation (HSL, CMYK)
-⋅⋅⋅ Gradient thresholding
-⋅⋅⋅ Perspective transformation
+* _Camera calibration_
+* _Color transformation (HSL, CMYK)_
+* _Gradient thresholding_
+* _Perspective transformation_
 
 <img src="output/test1.jpg" style="width: 500px;">
 
@@ -19,5 +19,6 @@
 ---
 
 Check out the results in the final video:
+<br/><br/>
 <a href="https://github.com/FinnHendricks/UdacitySDC_Project2_AdvancedLaneFindings/blob/master/output/project_video.mp4" target="_blank"><img src="output/test3.jpg" 
 alt="Video result" width="240" height="180" border="10" /></a>
